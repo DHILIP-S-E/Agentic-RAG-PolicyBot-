@@ -1,0 +1,230 @@
+ACME CORPORATION - DATA PRIVACY & SECURITY POLICY
+Version 2.1 | Effective Date: March 1, 2025
+
+============================================================
+1. PURPOSE AND SCOPE
+============================================================
+
+This policy establishes the framework for data privacy and security practices at ACME Corporation. It applies to all employees, contractors, and third-party service providers who handle personal data or confidential business information.
+
+============================================================
+2. DATA CLASSIFICATION
+============================================================
+
+2.1 Public Data
+Information that is freely available to the public.
+Examples: Marketing materials, public press releases, job postings.
+Handling: No special restrictions.
+
+2.2 Internal Data
+Information intended for use within ACME only.
+Examples: Internal memos, org charts, project plans, meeting notes.
+Handling: Should not be shared externally without authorization.
+
+2.3 Confidential Data
+Sensitive business information requiring protection.
+Examples: Financial reports, strategic plans, vendor contracts, source code.
+Handling: Encrypted storage, access restricted to authorized personnel.
+
+2.4 Restricted Data
+Highly sensitive data with legal or regulatory requirements.
+Examples: Personal Identifiable Information (PII), health records, payment card data, trade secrets.
+Handling: Strong encryption required, strict access controls, audit logging mandatory.
+
+============================================================
+3. PERSONAL DATA HANDLING
+============================================================
+
+3.1 Collection Principles
+- Collect only data necessary for the stated purpose (data minimization)
+- Obtain explicit consent where required
+- Provide clear privacy notices explaining data use
+- Document the legal basis for processing
+
+3.2 Employee Data
+ACME collects and processes employee personal data including:
+- Name, address, contact information
+- Social Security Number and tax information
+- Banking details for payroll
+- Performance records
+- Health information (insurance purposes only)
+
+This data is used solely for employment purposes and is retained according to our retention schedule.
+
+3.3 Customer Data
+Customer data must be:
+- Processed only for the purposes outlined in our customer agreements
+- Stored in approved systems with appropriate security controls
+- Not transferred to third countries without adequate safeguards
+- Deleted or anonymized when no longer needed
+
+3.4 Data Subject Rights
+Individuals have the right to:
+- Access their personal data
+- Correct inaccurate data
+- Request deletion of their data ("right to be forgotten")
+- Restrict processing of their data
+- Data portability (receive data in a machine-readable format)
+- Object to automated decision-making
+
+Requests should be submitted to privacy@acmecorp.com and will be processed within 30 days.
+
+============================================================
+4. DATA SECURITY MEASURES
+============================================================
+
+4.1 Access Controls
+- Role-based access control (RBAC) for all systems
+- Multi-factor authentication (MFA) required for all accounts
+- Principle of least privilege applied
+- Access reviews conducted quarterly
+- Immediate access revocation upon employee departure
+
+4.2 Encryption Standards
+- Data at rest: AES-256 encryption
+- Data in transit: TLS 1.2 or higher
+- Email: S/MIME or PGP for sensitive communications
+- Portable devices: Full disk encryption required
+
+4.3 Password Policy
+- Minimum 12 characters
+- Must include uppercase, lowercase, numbers, and special characters
+- Changed every 90 days
+- No reuse of last 12 passwords
+- Account lockout after 5 failed attempts
+
+4.4 Network Security
+- Firewall protection on all network boundaries
+- Intrusion detection/prevention systems (IDS/IPS)
+- VPN required for remote access to internal systems
+- Network segmentation between departments
+- Regular vulnerability scanning and penetration testing
+
+4.5 Physical Security
+- Badge access for all ACME facilities
+- Visitor sign-in and escort requirements
+- CCTV monitoring at entry points
+- Secure disposal of physical documents (cross-cut shredding)
+- Clean desk policy for all workstations
+
+============================================================
+5. GDPR COMPLIANCE
+============================================================
+
+5.1 Applicability
+ACME complies with the General Data Protection Regulation (GDPR) for all processing of personal data related to individuals in the European Economic Area (EEA).
+
+5.2 Data Protection Officer
+ACME has appointed a Data Protection Officer (DPO):
+Name: Jane Smith
+Email: dpo@acmecorp.com
+Phone: (555) 987-6543
+
+5.3 Legal Bases for Processing
+ACME processes personal data based on:
+- Consent: Where the individual has given clear consent
+- Contract: Necessary for performing a contract with the individual
+- Legal Obligation: Required by law
+- Legitimate Interest: For legitimate business purposes, balanced against individual rights
+
+5.4 International Data Transfers
+Personal data transferred outside the EEA must have:
+- Standard Contractual Clauses (SCCs) in place
+- Adequacy decision from the European Commission, OR
+- Binding Corporate Rules approved by supervisory authority
+
+5.5 Data Protection Impact Assessments (DPIA)
+A DPIA must be conducted before:
+- Implementing new processing activities involving personal data
+- Introducing new technology that processes personal data
+- Large-scale processing of sensitive data
+- Systematic monitoring of individuals
+
+============================================================
+6. DATA BREACH RESPONSE
+============================================================
+
+6.1 Definition
+A data breach is any unauthorized access, disclosure, alteration, or destruction of personal or confidential data.
+
+6.2 Reporting
+All suspected data breaches must be reported immediately to:
+- Information Security Team: security@acmecorp.com
+- Security Hotline: (555) 111-2222
+
+6.3 Response Timeline
+- Hour 0-1: Initial containment and assessment
+- Hour 1-4: Incident response team assembled
+- Hour 4-24: Full investigation and scope determination
+- Within 72 hours: Notification to supervisory authority (GDPR requirement)
+- Without undue delay: Notification to affected individuals (if high risk)
+
+6.4 Breach Response Team
+- Chief Information Security Officer (CISO) - Lead
+- Data Protection Officer
+- Legal Counsel
+- Communications/PR
+- Affected Business Unit Head
+
+============================================================
+7. THIRD-PARTY DATA PROCESSING
+============================================================
+
+7.1 Vendor Assessment
+All third-party vendors who process data on ACME's behalf must:
+- Complete a security questionnaire
+- Provide SOC 2 Type II or ISO 27001 certification
+- Sign a Data Processing Agreement (DPA)
+- Undergo annual security reviews
+
+7.2 Sub-Processing
+Vendors must obtain ACME's approval before engaging sub-processors. The same data protection standards apply to all sub-processors.
+
+============================================================
+8. DATA RETENTION AND DISPOSAL
+============================================================
+
+8.1 Retention Schedule
+- Employee records: 7 years after termination
+- Customer data: Duration of contract + 5 years
+- Financial records: 7 years
+- Marketing consent records: Duration of consent + 3 years
+- System logs: 1 year
+- CCTV footage: 30 days
+
+8.2 Disposal Methods
+- Electronic data: Cryptographic erasure or secure overwrite (DoD 5220.22-M)
+- Paper documents: Cross-cut shredding
+- Storage media: Degaussing or physical destruction
+- Disposal must be documented and certified
+
+============================================================
+9. EMPLOYEE RESPONSIBILITIES
+============================================================
+
+All employees must:
+- Complete annual data privacy training
+- Report suspected data breaches immediately
+- Lock workstations when unattended
+- Use approved tools and systems for data processing
+- Not store company data on personal devices without approval
+- Follow the clean desk policy
+- Use encrypted channels for sensitive communications
+
+Violations of this policy may result in disciplinary action up to and including termination of employment.
+
+============================================================
+10. POLICY REVIEW
+============================================================
+
+This policy is reviewed annually by the Data Protection Officer and Chief Information Security Officer. Updates are communicated to all employees via email and the company intranet.
+
+Last reviewed: January 15, 2025
+Next review: January 15, 2026
+
+============================================================
+Contact Information:
+Data Protection Officer: dpo@acmecorp.com
+Information Security: security@acmecorp.com
+Privacy Inquiries: privacy@acmecorp.com
+============================================================

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python run_scraper.py --scrape-only)",
+      "Bash(netstat -ano)",
+      "Bash(streamlit run:*)"
+    ]
+  }
+}
